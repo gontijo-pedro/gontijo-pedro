@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there! Welcome to my GitHub!
+
+🚀 My name is Pedro and I recently finished **Le Wagon's Data Science Bootcamp (Batch #869)**! 🚀
+
+👨‍💻 After **+10 years** working as an Architect & Urban Planner, I developed a major interest in **Data Analysis & Data Science**. 👨‍💻
+
+🤓 Now, I'm starting this new professional path with lots of energy, interest and dedication! 🤓
+
+🙋‍ Feel free to contact me, ask me questions, send some suggestions, invite me to a coffee... 🙋‍♂️
 
 <!--
 **gontijo-pedro/gontijo-pedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
